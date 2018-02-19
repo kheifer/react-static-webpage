@@ -1,0 +1,33 @@
+Arguments: 
+  /usr/local/Cellar/node/8.7.0/bin/node /usr/local/Cellar/yarn/1.2.1/libexec/bin/yarn.js add --dev react react-dom react-router lodash react-ga react-helmet react-disqus-comments antd axios
+
+PATH: 
+  /usr/local:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.7.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "react-static-webpage",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/kheifer/react-static-webpage.git",
+    "author": "Kheifer <kheifer.fuller@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.19.tgz: ENOENT: no such file or directory, utime '/Users/kheifer/Library/Caches/Yarn/v1/npm-iconv-lite-0.4.19-f7468f60135f5e5dad3399c0a81be9a1603a082b/encodings/dbcs-data.js'
